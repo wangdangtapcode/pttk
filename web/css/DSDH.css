@@ -1,0 +1,48 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 9, 2024, 2:57:21 PM
+    Author     : quang
+*/
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+.header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.search-bar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.search-bar input[type="text"] {
+    width: 80%;
+    padding: 5px;
+    margin-right: 10px;
+}
+.search-bar button {
+    padding: 5px;
+}
+.order-list {
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.order-info {
+    width: 70%;
+}
+.order-status {
+    text-align: right;
+    width: 30%;
+}

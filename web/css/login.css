@@ -1,0 +1,38 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 8, 2024, 1:38:08 PM
+    Author     : quang
+*/
+body {
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+}
+.login-container {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-top: 50px;
+}
+.form-control {
+    border-radius: 5px;
+}
+.login-btn {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+}
+.login-btn:hover {
+    background-color: #0056b3;
+}
+.text-center h2 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
